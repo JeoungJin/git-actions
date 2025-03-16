@@ -9,7 +9,8 @@ function App() {
   return (
     <>
       <div>
-        <button>Hello</button>
+        <h1 style={{ backgroundColor: "orange" }}>Hello~~ vite </h1>
+        <button>Hello!!!</button>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
